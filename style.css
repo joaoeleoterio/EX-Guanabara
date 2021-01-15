@@ -1,6 +1,7 @@
 body {
     background-color: rgb(35, 35, 190);
     font: normal 15pt Arial;
+
 }
 h1 {
     color: white;
@@ -18,4 +19,11 @@ footer {
     color: white;
     text-align: center;
     font-style: italic;
+}
+img {
+    width: 250px;
+}
+div {
+    text-align: center;
+    padding: 8px ;
 }
